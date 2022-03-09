@@ -17,14 +17,14 @@
 <iframe width="971" height="546" src="https://www.youtube.com/embed/bJ0vm-HXYtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 2. 구이경 GITHUB MAIN 홈페이지
+## 3. 구이경 GITHUB MAIN 홈페이지
 
 ### [여기를 클릭하세요](https://92kyoung.github.io)
 
 
 
 
-## 관련 링크 
+## 4. 관련 링크 
 ### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
 ### [한국폴리텍대학 광명융합기술교육원 데이터분석과 youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
 ### [한국폴리텍대학 광명융합기술교육원 데이터분석과 홈페이지](https://www.kopo.ac.kr/gm)
