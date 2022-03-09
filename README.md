@@ -11,7 +11,7 @@
 첫번째 과제 동영상입니다.
 <iframe width="971" height="546" src="https://www.youtube.com/embed/CjhZyR3kfag?list=PLc_mEFumjq-BBn0MKUIwamapGv53gPZfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</br>
+
 
 두번째 과제 동영상입니다. 
 <iframe width="971" height="546" src="https://www.youtube.com/embed/bJ0vm-HXYtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,10 +19,10 @@
 
 ## 2. 구이경 GITHUB MAIN 홈페이지
 
-[여기를 클릭하세요] (https://92kyoung.github.io)
+### [여기를 클릭하세요](https://92kyoung.github.io)
 
 
-</br>
+
 
 ## 관련 링크 
 ### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
